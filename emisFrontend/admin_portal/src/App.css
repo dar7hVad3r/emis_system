@@ -1,0 +1,44 @@
+.header{
+  height:60px;
+  align-items: center;
+  background-color:#09052a;
+  position:sticky;
+  top:0;
+  z-index: 100;
+  display: flex;
+}
+.headerlogo{
+width: 105px;
+height: 63px;
+object-fit: contain;
+margin: 0 20px;
+margin-top: 0px;
+}
+.header_option{
+  
+  display: flex;
+  flex-direction: column;
+  margin-left: 80px;
+  margin-right: 50px;
+  color:white;
+}
+.header_optionLineOne{
+  font-size: 20px;
+  font-weight:500;
+}
+.header_nav{
+  display: flex;
+  justify-content: stretch;
+}
+
+.preview-title{
+  text-decoration: none !important;
+}
+
+.my-announcement{
+  text-align: center;
+}
+
+.my-big-head{
+  font-size: 1.2em;
+}

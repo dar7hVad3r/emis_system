@@ -1,0 +1,13 @@
+export const URL = 'http://localhost:8080/students/'
+export const AcademicURL = "http://localhost:8080/academic/"
+export const tenthMapping = "tenth/"
+export const twelfthMapping = "twelfth/"
+export const diplomaMapping = "diploma/"
+export const enggMapping = "engg/"
+export const marksMapping = "marks/"
+export const announcementURL ='http://localhost:8080/announcement'
+export const scheduleURl ='http://localhost:8080/students/schedule'
+export const attendanceURL = 'http://localhost:8080/students/attendance/'
+export const mediaURL = 'http://localhost:4005/photo/student/'
+export const photoURL = 'http://localhost:4005/'
+export let id = ''

@@ -1,0 +1,17 @@
+.t__head{
+ padding-top: 12px;
+  padding-bottom: 12px;
+  text-align:center;
+  background-color:rgb(48, 4, 88);
+  color: white;
+  font-size: large;
+
+}
+.t__h{
+    display: flex;
+    margin-left: 10px;
+}
+.table{
+   
+    border: thistle;
+}
